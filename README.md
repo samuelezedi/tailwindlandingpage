@@ -6,7 +6,7 @@
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/samuelezedi/tailwindlandingpage.git]
+   git clone https://github.com/samuelezedi/tailwindlandingpage.git
 
 
 2. **Clone the repository:**
