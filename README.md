@@ -4,7 +4,7 @@
 
 ![Desktop](https://raw.githubusercontent.com/samuelezedi/tailwindlandingpage/refs/heads/main/screenshot/desktop-screenshot.png)
 
-![Mobile](https://raw.githubusercontent.com/samuelezedi/tailwindlandingpage/refs/heads/main/screenshot/mobile-screenshot.png)
+<img src="https://raw.githubusercontent.com/samuelezedi/tailwindlandingpage/refs/heads/main/screenshot/mobile-screenshot.png" alt="Mobile" width="300">
 
 
 ## Installation
