@@ -2,6 +2,10 @@
 
 **A simple website to describe knowledge of tailwindcss.**
 
+![Desktop](https://raw.githubusercontent.com/samuelezedi/tailwindlandingpage/refs/heads/main/screenshot/desktop-screenshot.png)
+
+![Mobile](https://raw.githubusercontent.com/samuelezedi/tailwindlandingpage/refs/heads/main/screenshot/mobile-screenshot.png)
+
 
 ## Installation
 1. **Clone the repository:**
